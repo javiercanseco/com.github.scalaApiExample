@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jcansecg/personalProjects/com.github.scalaApiExample/src/main/scala/apiRequestApp.scala:7:13: not found: value requests[0m
+[0m[[0m[31merror[0m] [0m[0m    val r = requests.get([0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jcansecg/personalProjects/com.github.scalaApiExample/src/main/scala/apiRequestApp.scala:9:7: not found: value params[0m
+[0m[[0m[31merror[0m] [0m[0m      params = Map("q" -> "http language:scala", "sort" -> "stars")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
